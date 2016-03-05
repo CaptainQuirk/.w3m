@@ -72,7 +72,7 @@ urimethodmap ~/.w3m/urimethodmap, /home/leo/.linuxbrew/Cellar/w3m/0.5.3/etc/w3m/
 mailcap ~/.w3m/mailcap, /home/leo/.linuxbrew/Cellar/w3m/0.5.3/etc/w3m/mailcap
 mime_types ~/.mime.types, /home/leo/.linuxbrew/Cellar/w3m/0.5.3/etc/mime.types
 index_file 
-cgi_bin 
+cgi_bin ~/.w3m/cgi-bin
 personal_document_root 
 document_root 
 keymap_file keymap
